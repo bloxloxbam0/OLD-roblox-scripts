@@ -20,7 +20,7 @@ wait()
 else
 z = Instance.new("Sound")
 z.Parent = Workspace
-z.SoundId = "http://www.roblox.com/asset/?id=142295308"
+z.SoundId = "http://www.roblox.com/asset/?id=142376088"
 z.Looped = true
 z.Volume = math.huge
 z.Pitch = 1
